@@ -8,7 +8,7 @@ Other distributions of Linux, macOS, Windows should work as well.
 
 To install the package from source, download zip file on GitHub page or run the following in a terminal:
 ```bash
-git clone https://github.com/psweens/V-System.git
+git clone https://github.com/psweens/Predict-RSOM-ROI.git
 ```
 
 The required Python packages can be found [here](https://github.com/psweens/V-System/blob/master/REQUIREMENTS.txt). The package list can be installed, for example, using creating a Conda environment by running:
