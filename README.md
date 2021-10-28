@@ -4,8 +4,9 @@ This Python package contains a trained 3D convolutional neural network based on 
 
 ## Prerequisites
 The 3D CNN was trained using:
-* Python 3.6
-* Tensorflow-GPU 1.14.0
+* Python 3.6.
+* Tensorflow-GPU 1.14.0.
+
 A package list for a Python environment has been provided and can be installed using the method described below.
 
 ## Installation
