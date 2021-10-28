@@ -6,6 +6,7 @@ The scripts to train your own 3D CNN from scratch or perform additional training
 
 ## CNN Architecture
 The network architecture consists of five convolutional layers with dropout in the 3rd, 4th and 5th layers to reduce segmentation bias and ensure that segmentation is performed utilising high-level features that may not have been considered in our semi-manual ROI annotations used as ground truth.
+
 ![alt text](https://github.com/psweens/Predict-RSOM-ROI/blob/main/CNN_Architecture.jpg)
 
 ## Training
