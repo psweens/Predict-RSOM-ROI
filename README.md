@@ -7,6 +7,7 @@ The scripts to train your own 3D CNN from scratch or perform additional training
 ## Prerequisites
 The 3D CNN was trained using:
 * Python 3.6.
+* Keras 2.3.1.
 * Tensorflow-GPU 1.14.0.
 
 A package list for a Python environment has been provided and can be installed using the method described below.
