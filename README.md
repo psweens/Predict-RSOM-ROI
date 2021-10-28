@@ -2,7 +2,7 @@
 
 This Python package contains a trained 3D convolutional neural network based on a [U-Net](https://arxiv.org/abs/1505.04597) architecture to segment tumour region-of-interest (ROI) from raster-scan optoacoustic mesoscopy (RSOM) 3D image volumes. Segmentation allows delineation of tumour ROIs from surrounding tissue to provide an estimate of the tumour boundary and consequently tumour volume.
 
-The scripts to train your own 3D CNN from scratch or perform additional training can be found [here](https://github.com/psweens/Train-RSOM-ROI).
+The scripts to train your own 3D CNN from scratch or perform additional training can be found [here](https://github.com/psweens/3D-CNN).
 
 ## Prerequisites
 The 3D CNN was trained using:
