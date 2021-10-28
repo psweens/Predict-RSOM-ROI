@@ -11,6 +11,8 @@ The network architecture consists of five convolutional layers with dropout in t
 
 ## Training
 
+![alt text](https://github.com/psweens/Predict-RSOM-ROI/blob/main/ROI_Analysis%20layout%202.jpg)
+
 ## Prerequisites
 The 3D CNN was trained using:
 * Python 3.6.
