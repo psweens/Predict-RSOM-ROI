@@ -1,4 +1,4 @@
-# Predicting Tumour Region-of-Interest Segmentation for Mesoscopic Photoacoustic Imaging
+# Predicting Tumour Region-of-Interest from 3D Mesoscopic Photoacoustic Images
 
 This Python package contains a trained 3D convolutional neural network based on a [U-Net](https://arxiv.org/abs/1505.04597) architecture to segment tumour region-of-interest (ROI) from raster-scan optoacoustic mesoscopy (RSOM) 3D image volumes. Segmentation allows delineation of tumour ROIs from surrounding tissue to provide an estimate of the tumour boundary and consequently tumour volume.
 
