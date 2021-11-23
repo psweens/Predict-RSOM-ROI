@@ -18,7 +18,7 @@ The network architecture consists of five convolutional layers with dropout in t
 ![alt text](https://github.com/psweens/Predict-RSOM-ROI/blob/main/CNN_Architecture.jpg)
 
 ## Trained CNN
-A link to the trained network will be provided shortly.
+A HDF5 file which contains model architecture, weighted values and compile information for the trained region-of-interest CNN can be found [here](https://doi.org/10.17863/CAM.78208).
 
 ## Training
 The CNN was trained for a total of 120 epochs and performance was evaluated using the F1 score.
