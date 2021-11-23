@@ -6,6 +6,12 @@ Hyperparameters were optimised and evaluated using [Talos](https://github.com/au
 
 The scripts to train your own 3D CNN from scratch or perform additional training can be found [here](https://github.com/psweens/3D-CNN). More detailed information of the design, training and application can be found here.
 
+## References 
+To reference this repository please use the below citation.
+
+> [Quantification of vascular networks in photoacoustic mesoscopy](https://www.biorxiv.org/content/10.1101/2021.11.22.469541v1)<br>
+> Emma L. Brown, Thierry L. Lefebvre, Paul W. Sweeney et al.
+
 ## CNN Architecture
 The network architecture consists of five convolutional layers with dropout in the 3rd, 4th and 5th layers to reduce segmentation bias and ensure that segmentation is performed utilising high-level features that may not have been considered in our semi-manual ROI annotations used as ground truth.
 
@@ -13,12 +19,6 @@ The network architecture consists of five convolutional layers with dropout in t
 
 ## Trained CNN
 A link to the trained network will be provided shortly.
-
-## References 
-To reference this repository please use the below citation.
-
-> [Quantification of vascular networks in photoacoustic mesoscopy](https://www.biorxiv.org/content/10.1101/2021.11.22.469541v1)<br>
-> Emma L. Brown, Thierry L. Lefebvre, Paul W. Sweeney et al.
 
 ## Training
 The CNN was trained for a total of 120 epochs and performance was evaluated using the F1 score.
