@@ -12,13 +12,13 @@ To reference this repository please use the below citation.
 > [Quantification of vascular networks in photoacoustic mesoscopy](https://www.biorxiv.org/content/10.1101/2021.11.22.469541v1)<br>
 > Emma L. Brown, Thierry L. Lefebvre, Paul W. Sweeney et al.
 
+## Trained CNN
+A HDF5 file which contains model architecture, weighted values and compile information for the trained region-of-interest CNN can be found [here](https://doi.org/10.17863/CAM.78208).
+
 ## CNN Architecture
 The network architecture consists of five convolutional layers with dropout in the 3rd, 4th and 5th layers to reduce segmentation bias and ensure that segmentation is performed utilising high-level features that may not have been considered in our semi-manual ROI annotations used as ground truth.
 
 ![alt text](https://github.com/psweens/Predict-RSOM-ROI/blob/main/CNN_Architecture.jpg)
-
-## Trained CNN
-A HDF5 file which contains model architecture, weighted values and compile information for the trained region-of-interest CNN can be found [here](https://doi.org/10.17863/CAM.78208).
 
 ## Training
 The CNN was trained for a total of 120 epochs and performance was evaluated using the F1 score.
