@@ -20,7 +20,7 @@ certifi==2024.7.4
 cffi==1.14.3
 chardet==3.0.4
 cloudpickle==1.6.0
-cryptography==43.0.1
+cryptography==44.0.1
 cudatoolkit==10.1.243
 cudnn==7.6.5
 cupti==10.1.168
@@ -83,7 +83,7 @@ jsonschema==3.2.0
 jupyter_client==6.1.7
 jupyter_core==4.6.3
 jupyterlab_pygments==0.1.2
-keras==2.13.1
+keras==3.9.0
 keras-applications==1.0.8
 keras-metrics==1.1.0
 keras-preprocessing==1.1.0
