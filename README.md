@@ -9,8 +9,7 @@ The scripts to train your own 3D CNN from scratch or perform additional training
 ## References 
 To reference this repository please use the below citation.
 
-> [Quantification of vascular networks in photoacoustic mesoscopy](> [Segmentation of 3D blood vessel networks using unsupervised deep learning](https://doi.org/10.1101/2023.04.30.538453)<br>
-> Paul W. Sweeney et al.)<br>
+> [Quantification of vascular networks in photoacoustic mesoscopy](https://doi.org/10.1016/j.pacs.2022.100357)<br>
 > Emma L. Brown, Thierry L. Lefebvre, Paul W. Sweeney et al.
 
 ## Trained CNN
