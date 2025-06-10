@@ -183,7 +183,7 @@ qtawesome==1.0.1
 qtconsole==4.7.7
 qtpy==1.9.0
 readline==8.0
-requests==2.32.2
+requests==2.32.4
 rope==0.18.0
 rtree==0.9.4
 scikit-image==0.16.2
