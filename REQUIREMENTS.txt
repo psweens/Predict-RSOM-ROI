@@ -150,7 +150,7 @@ pip==23.3
 pixman==0.38.0
 pluggy==0.13.1
 prompt-toolkit==3.0.8
-protobuf==3.18.3
+protobuf==4.25.8
 psutil==5.7.2
 ptyprocess==0.6.0
 py-opencv==3.4.2
